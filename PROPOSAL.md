@@ -6,9 +6,11 @@ Please provide the information requested in the following form. Try to provide c
 
 **1. What is your project title?**
 
+
+
 **2. What is the problem that you want to solve?**
 
-<The context of your problem, main research questions, specific use cases and evaluation metrics. Use item 4 for any aspects related to datasets or synthetic data>
+Cost minimization between patient needs, provider specialty, insurance coverage network and location of services.
 
 **3. What big data methodologies and tools do you plan to use?**
 
@@ -21,7 +23,7 @@ Please provide the information requested in the following form. Try to provide c
 
 **5. List key references (e.g. research papers) that your project will be based on. Please cite them properly and provide URLs.**
 
-<list of papers, technical reports and other sources>
+
 
 **Please indicate whether your project proposal is ready for review (Yes/No):**
 
