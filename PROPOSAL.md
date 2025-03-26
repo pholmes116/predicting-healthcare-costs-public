@@ -12,6 +12,7 @@ Please provide the information requested in the following form. Try to provide c
 
 Cost minimization between patient needs, provider specialty, insurance coverage network and location of services.
 
+
 **3. What big data methodologies and tools do you plan to use?**
 
 <You may consider any methods and tools to acquire, preprocess, store, analyse, and present results - as a traditional big data science pipeline>
@@ -22,6 +23,8 @@ Cost minimization between patient needs, provider specialty, insurance coverage 
 <characteristics of synthetic datasets>
 
 **5. List key references (e.g. research papers) that your project will be based on. Please cite them properly and provide URLs.**
+
+Jason Walonoski, Mark Kramer, Joseph Nichols, Andre Quina, Chris Moesel, Dylan Hall, Carlton Duffett, Kudakwashe Dube, Thomas Gallagher, Scott McLachlan, Synthea: An approach, method, and software mechanism for generating synthetic patients and the synthetic electronic health care record, Journal of the American Medical Informatics Association, Volume 25, Issue 3, March 2018, Pages 230–238, https://doi.org/10.1093/jamia/ocx079
 
 
 
