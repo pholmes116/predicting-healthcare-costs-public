@@ -12,7 +12,6 @@ Clustering or building recommender systems for procedure codes based on Electron
 
 Compile patient data from various EHR data sources into a consolidated patient profile that captures the relevant information required to provide efficient care to patients. After operationalizing this process, we will run k-means clustering across the various CSV files to cluster patients based on their procedure codes. K-means clustering will highlight which variables are relevant in predicting the patient's procedure using their demographic and registration information. 
 
-
 **3. What big data methodologies and tools do you plan to use?**
 
 Recommender system, Spark dataframes, SparkML/DBSCAN on Spark (clustering algorithms), feature transformers to create the patient profile dataframes
@@ -31,13 +30,13 @@ Jason Walonoski, Mark Kramer, Joseph Nichols, Andre Quina, Chris Moesel, Dylan H
 
 Clustering datasets with demographics and diagnosis codes (Zhong et al.,2020) - https://www.sciencedirect.com/science/article/pii/S1532046419302801
 
-
-
 **Please indicate whether your project proposal is ready for review (Yes/No):**
 
 Yes
 
 ## Feedback & approval (to be provided by the lecturer by Week 11)
 
-[MB - xx/xx/xxxx]
+[MB - 04/04/2025] The topic is relevant and adherent with a big data scenario, depending on the size and structure of the synthetic dataset. You must ensure a good distribution across procedure codes by selecting some domains, such as neurological diseases, cardiovascular diseases and mental health issues (among others). Also, ensure you have a good distribution of patients of varied characteristics (biomarkers). yhou may consider whether the dataset is labelled or not, for instance, by adding a disease code (so this would help you to associate procedure codes to diseases). As for analysis, clustering is fine and will allow you to stratify patients. Besides clustering, which other models would be feasible here? There's mention to recommender systems, but perhaps this is not the best use case. You can try to simulate patient journeys moving from simple to complex cases, based on their biomarkers and procedure codes. For instance, a patient with high blood pressure and/or BMI who progresses to a cardiovascular case. The idea of predicting procedures based on patient's characteristics is also fine. Make sure to include big data-related metrics, such as execution time and scalability (single vs multiple machines). Remember to emphasise any other aspects of your big data pipeline where you've put more work. 
+
+**Conditionally approved.** There's no need to resubmit but make sure to include a few more models and explore a few more data features. You can also consider deploying an ensemble of models. **Please, add the remaining candidate numbers.**
  
