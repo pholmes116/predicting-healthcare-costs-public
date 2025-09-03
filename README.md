@@ -1,4 +1,4 @@
-# TITLE
+# Comparing Distributed Machine Learning Models for Patient Cost Prediction Using Synthetic Electronic Health Records
 
 EDIT DESCRIPTION
 This repository contains tools, code examples, and documentation for developing shallow learning models, with a specific focus on the NFL Big Data Bowl 2025 dataset.
