@@ -20,7 +20,7 @@ This study investigates the use of distributed machine learning to predict patie
 │   ├── Notebook for Loading in Synthea Data_1000_patients.ipynb\
 │   ├── Notebook for Loading in Synthea Data_100_patients.ipynb\
 ├── Report.pdf\
-└── README.md\
+└── README.md
 
 ## Contact
 
