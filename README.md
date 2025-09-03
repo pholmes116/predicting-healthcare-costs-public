@@ -1,14 +1,12 @@
 # Comparing Distributed Machine Learning Models for Patient Cost Prediction Using Synthetic Electronic Health Records
 
-EDIT DESCRIPTION
-This repository contains tools, code examples, and documentation for developing shallow learning models, with a specific focus on the NFL Big Data Bowl 2025 dataset.
-
 ## Authors
 
 Mayssa Goraieb, Peter Holmes, Vinay Kathard, Nieves Tur de Montis San Gil
 
 ## Overview
 
+This study investigates the use of distributed machine learning to predict patient-incurred healthcare costs using synthetic Electronic Health Records (EHRs) generated via Synthea, a MITRE corporation synthetic patient population simulator.
 
 ## Project Structure
 
